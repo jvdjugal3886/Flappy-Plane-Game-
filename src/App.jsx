@@ -142,7 +142,7 @@ const App = () => {
             <span className="text-yellow-400 font-bold">High Score: {highScore}</span>
           </div>
           <a 
-            href="https://github.com/Galib-23/flappy-plane-react-ml5" 
+            href="https://github.com/jvdjugal3886/Flappy-Plane-Game-" 
             target="_blank" 
             rel="noopener noreferrer"
             className="px-4 py-2 bg-white bg-opacity-10 hover:bg-opacity-20 rounded-lg text-white transition-all duration-300"
