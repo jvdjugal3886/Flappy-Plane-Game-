@@ -25,7 +25,7 @@ To get started with the project, clone the repository and install the required d
 - Clone the repo and install dependencies
 
 ```bash
-git clone [https://github.com/Galib-23/flappy-plane-react-ml5.git](https://github.com/jvdjugal3886/Flappy-Plane-Game-)
+git clone https://github.com/jvdjugal3886/Flappy-Plane-Game-
 cd flappy-plane-game-
 npm install
 ```
