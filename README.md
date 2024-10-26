@@ -2,14 +2,7 @@
 
 A fun and interactive game built using React, where players control a plane using hand gestures detected through a webcam. The game utilizes machine learning for gesture recognition, allowing players to navigate the plane through obstacles.
 
-## Table of Contents
-- [Demo](#demo)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Demo
 [Live Link](https://flappy-plane-911.netlify.app/)
@@ -33,8 +26,8 @@ To get started with the project, clone the repository and install the required d
 - Clone the repo and install dependencies
 
 ```bash
-git clone https://github.com/Galib-23/flappy-plane-react-ml5.git
-cd flappy-plane
+git clone [https://github.com/Galib-23/flappy-plane-react-ml5.git](https://github.com/jvdjugal3886/Flappy-Plane-Game-)
+cd flappy-plane-game-
 npm install
 ```
 
