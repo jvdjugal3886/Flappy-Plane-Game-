@@ -4,8 +4,7 @@ A fun and interactive game built using React, where players control a plane usin
 
 
 
-## Demo
-[Live Link](https://flappy-plane-911.netlify.app/)
+
 
 ## Features
 - Gesture recognition using Teachable Machine.
